@@ -1,0 +1,7 @@
+path: C:\\Users\\Afshin\\Pythonfiles\\Kaggle-competition\\Object detection-Tumor\\axial_t1wce_2_class
+train: images\\train
+val: images\\test
+
+# Classes
+nc: 2
+names: ['negative','positive']
