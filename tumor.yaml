@@ -1,0 +1,11 @@
+
+    path : /kaggle/working
+    train: /kaggle/working/train
+    val: /kaggle/working/valid
+    nc: 2
+    names: 
+	0 : negative
+	1 : positive
+
+    
+    
