@@ -26,4 +26,6 @@ the bounding boxes for the tumors.</li>
 the directories and paths mentioned in the script are specific to Kaggle. However, you have the flexibility to modify these
 directories and paths according to your preferences if you want to run the script on a different platform or adjust the 
 file locations to suit your needs.</li>          
-          
+<p>
+</p>          
+URL for dataset : https://www.kaggle.com/datasets/davidbroberts/brain-tumor-object-detection-datasets
