@@ -7,8 +7,7 @@
 <p>
 </p>
 <li> The dataset consists of MRI images of the brain captured in three different directions: axial, coronal, and sagittal. 
-These images display both benign (0: negative) and malignant (1: positive) tumors. The goal is to detect and classify 
-tumors as either positive or negative. The dataset is organized into two main folders: one for training data and another 
+The goal is to detect and classify tumors as either positive or negative. The dataset is organized into two main folders: one for training data and another 
 for validation data. Each folder contains two subfolders, one for images and the other for labels. The images folder 
 holds the MRI images, while the labels folder contains text files in YOLO format, which provide the coordinates of 
 the bounding boxes for the tumors.</li>
